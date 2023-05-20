@@ -1,2 +1,1 @@
-# Pythonopoly
- Monopoly recreated in Python for COSC 302
+# Git_Final_project

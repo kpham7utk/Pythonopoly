@@ -1,0 +1,22 @@
+CS302 Final Project Individual Report by Khoa Pham
+
+Timelog:
+2-27-23	Created Dice Randomizer and started research and planning into structures to contain player information - 6 hours
+4-18-23 Worked on creating background slide for final presentation with group members - 1 hour
+4-28-23 Designing and testing structures for properties such as buying and selling them - 3 hours
+4-29-23 Testing and refining buying and selling property features - 4 hours
+5-2-23 Resized Board, Rotated and moved button image to their real life positions - 5 hours
+5-5-23 Resized actual buttons and and attempted to rotate them to match button image - 5 hours
+
+Contribution:
+I created the dice randomizer the dice rolls for when players moved. I also collaborated on the creation of the structures to represent
+the players, properties, and player pieces. Initially I was not satisfied with the dimensions of the game window and the board. So I resized 
+the resolution and the board to take up the entirety of the game window. I also rotated the chance and community draw piles so that
+they would more closely resemble their real life equivalents. I helped write game features such as buying and selling properties along with
+testing to make sure they worked correctly.
+
+Team Assessment: 
+I think everyone performed their role well. Communication was not an issue as well met and collaborated easily through discord. 
+Every member pulled their own weight and helped others. Constance joined late, but was instrumental in the project after she joined.
+Peyton and Sarah did a great job on the visuals such as the board and the starting menu. Collins was greatly helpful as he and I collaborated 
+on the properties and making sure they worked correctly.
